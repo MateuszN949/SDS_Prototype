@@ -3,7 +3,8 @@
 
 # CONTRIBUTING.md
 
-```markdown id="sokvsm"
+---
+
 # Contributing
 
 Thank you for your interest in contributing.
@@ -21,7 +22,9 @@ Thank you for your interest in contributing.
 Examples:
 
 feat: add batch prediction support
+
 fix: correct evaluation metric
+
 docs: update installation guide
 
 ## Pull Requests
